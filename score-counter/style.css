@@ -1,0 +1,68 @@
+/* Reset */
+html,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+input {
+  color: var(--text-color);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  margin: 0;
+  height: 90%;
+}
+
+/* App */
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.scores {
+  display: flex;
+}
+.score {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  min-width: 5rem;
+}
+
+.score__buttons {
+  display: flex;
+}
+
+.score__button {
+  margin: 0 0.125rem;
+  flex: 1;
+}
+
+.score__button button {
+  font-weight: 400;
+  padding: 0.25rem 0;
+  cursor: pointer;
+  width: 100%;
+}
+
+.score + .score {
+  border-left: 1px solid black;
+}
+
+.score__text {
+  text-align: center;
+}

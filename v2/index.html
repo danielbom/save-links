@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Service-Worker-Allowed" value="/">
+  <meta name="theme-color" content="#212527">
+  
+  <title>Save Links</title>
+
+  <link rel="manifest" href="../manifest.json">
+  <link rel="apple-touch-icon" href="../images/apple-touch-icon.png" />
+
+  <link rel="shortcut icon" href="../images/favicon.ico" />
+  <link rel="icon" type="image/vnd.microsoft.icon" href="../images/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+  <link rel="icon" href="../images/favicon.ico" />
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style-dark.css">
+  <link rel="stylesheet" href="responsive.css">
+
+  <!-- <script src="sample-links.js"></script> -->
+  <script src="../data/all-links.js"></script>
+  <script src="../data/all-links-2.js"></script>
+  <script src="../data/all-links-3.js"></script>
+  <script src="../data/all-links-4.js"></script>
+  <script src="../data/all-links-favs.js"></script>
+  <script src="../data/all-links-undef.js"></script>
+
+  <script>
+    // Registering our Service worker
+    if('serviceWorker' in navigator) {
+      console.log("serviceWorker")
+      navigator.serviceWorker.register(
+        '../service-worker.js', 
+        { 
+          scope: '.', 
+          registrationStrategy: 'registerImmediately' 
+        }
+      );
+    }
+  </script>
+</head>
+
+<body>
+  <div id="app"></div>
+  <script src="main.min.js"></script>
+  <script src="prepare-flags.js"></script>
+
+  <script>
+    var app = Elm.Main.init({
+      node: document.getElementById("app"),
+      flags: prepareFlags()
+    });
+
+    app.ports.setStorage.subscribe(state => {
+      localStorage.setItem(APP_STATE_STORE_KEY, JSON.stringify(state));
+    })
+
+    app.ports.toggleDarkMode.subscribe(enabled => {
+      if (enabled) {
+        document.querySelector("html").classList.add("dark")
+      } else {
+        document.querySelector("html").classList.remove("dark")
+      }
+    })
+  </script>
+</body>
+
+</html>
