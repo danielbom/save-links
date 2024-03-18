@@ -1,4 +1,4 @@
-function optimizeFavicon(url1) {
+export function optimizeFavicon(url1) {
   const parts = url1.split('/')
   if (parts.length === 0) return ''
 
@@ -11,7 +11,7 @@ function optimizeFavicon(url1) {
   return url3.replace(/youtu\.be/, 'www.youtube.com')
 }
 
-function enableDarkMode(enabled) {
+export function enableDarkMode(enabled) {
   if (enabled) {
     document.querySelector('html').classList.add('dark')
   } else {
@@ -19,7 +19,7 @@ function enableDarkMode(enabled) {
   }
 }
 
-function slugify(text) {
+export function slugify(text) {
   const slug = [
     ['a', /[áàâãå]/g],
     ['e', /[éèẽê]/g],
@@ -35,6 +35,6 @@ function slugify(text) {
   return '#' + slug
 }
 
-function sumBy(xs, getter) {
+export function sumBy(xs, getter) {
   return xs.reduce((acc, x) => acc + getter(x), 0)
 }

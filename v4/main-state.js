@@ -1,3 +1,5 @@
+import { sumBy } from './utilities.js'
+
 const StateTreeMain = (() => {
   const { types } = mobxStateTree
   const { values } = mobx
@@ -124,10 +126,6 @@ const StateTreeMain = (() => {
         self.changeCategory(self.favoritesCategory)
       },
 
-      changeToNewestsCategory() {
-        self.changeCategory(self.newestsCategory)
-      },
-
       toggleMenu() {
         self.menuIsOpen = !self.menuIsOpen
       },
@@ -166,3 +164,5 @@ const stateMain = StateTreeMain.Root.create({
 
   search: '',
 })
+
+export { stateMain, StateTreeMain }

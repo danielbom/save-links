@@ -1,4 +1,5 @@
-m.route(document.getElementById('app'), '/', {
+import PageMain from './main-page.js'
+
+m.route(document.getElementById('root'), '/', {
   '/': PageMain,
-  '/z': PageTags,
 })

@@ -22,7 +22,7 @@ const SaveLinksLink = {
   name: 'save-links-link',
   template: `
     <a
-      id="page-title"
+      class="page-title"
       class="pointer"
       target="_blank"
       href="https://repl.it/@danielbom/SaveLinks"

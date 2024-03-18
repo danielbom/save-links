@@ -65,7 +65,7 @@ function prepareFlags() {
     const withoutCategory = []
     const favorites = []
     const allLinks = links.map(normalizeLink)
-    const newLinks = links4.slice(0, 100).map(normalizeLink)
+    const newLinks = []
 
     for (let i = 0; i < links.length; i++) {
       const link = links[i]

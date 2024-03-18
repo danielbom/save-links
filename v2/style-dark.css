@@ -46,10 +46,10 @@
   background-color: var(--bg-2-dark);
 }
 
-.dark #page-title {
+.dark .page-title {
   color: var(--blue-dark);
 }
-.dark #page-title:hover {
+.dark .page-title:hover {
   color: var(--lightblue);
 }
 

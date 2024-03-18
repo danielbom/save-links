@@ -78,7 +78,7 @@
     align-items: center;
     border-right: none;
   }
-  #sidebar #page-title {
+  #sidebar .page-title {
     display: none;
   }
 

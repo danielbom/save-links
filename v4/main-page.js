@@ -1,3 +1,7 @@
+import { SaveLinksLink, MobileHeader, CategoryButton, AccessLink, InputSearch, SubCategoryButton } from './components.js'
+import { stateMain } from './main-state.js'
+import { enableDarkMode, slugify } from './utilities.js'
+
 const PageMain = (() => {
   const state = stateMain
 
@@ -152,3 +156,5 @@ const PageMain = (() => {
 
   return App
 })()
+
+export default PageMain

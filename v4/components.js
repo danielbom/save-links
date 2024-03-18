@@ -1,7 +1,9 @@
-class SaveLinksLink {
+import { optimizeFavicon } from './utilities.js'
+
+export class SaveLinksLink {
   view() {
     return m(
-      'a#page-title.pointer',
+      'a.page-title.pointer',
       {
         target: '_blank',
         href: 'https://repl.it/@danielbom/SaveLinks',
@@ -11,7 +13,7 @@ class SaveLinksLink {
   }
 }
 
-class AccessLink {
+export class AccessLink {
   static fromLink(link) {
     return m(AccessLink, {
       key: link.url,
@@ -38,7 +40,7 @@ class AccessLink {
   }
 }
 
-class MobileHeader {
+export class MobileHeader {
   view(vnode) {
     const { toggleMenu, menuIsOpen } = vnode.attrs
     return m('div#header', [
@@ -55,14 +57,14 @@ class MobileHeader {
   }
 }
 
-class CategoryButton {
+export class CategoryButton {
   view(vnode) {
     const { href, onclick, text, class: className } = vnode.attrs
     return m('a', { href }, m('div.pointer.btn', { onclick, class: className }, text))
   }
 }
 
-class SubCategoryButton {
+export class SubCategoryButton {
   view(vnode) {
     const { text, open, onclick } = vnode.attrs
     return m('div.sub-category', [
@@ -79,7 +81,7 @@ class SubCategoryButton {
   }
 }
 
-class InputSearch {
+export class InputSearch {
   // https://mtsknn.fi/blog/how-to-debounce-events-in-mithriljs/
 
   constructor() {
