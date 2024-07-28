@@ -713,6 +713,10 @@
 - [Zé Ramalho - Sinônimos](https://www.youtube.com/watch?v=0lUgHw-ZoHU)
 - [dorival - academia da berlinda | mariana froes & rodrigo alarcon](https://www.youtube.com/watch?v=vrP3KTshJ8A&ab_channel=MariFroes)
 
+## Spanish
+
+- [Christell - Dubidubidu (Letra/Lyrics) chipi chipi chapa chapa dubi dubi daba daba](https://www.youtube.com/watch?v=68YK_d4VyfU)
+
 ## Bulgarian
 
 - [Flёur – Шелкопряд](https://www.youtube.com/watch?v=5hVfxEc6WyY&ab_channel=Wideominder)
@@ -734,6 +738,8 @@
 - [Sky: Children of the Light - Full Credits Theme](https://youtu.be/yyG3mBwV2Ks)
 - [Tom Odell - Another Love (Official 4K Video)](https://youtu.be/uGYAwwqb_GY)
 - [jj - still](https://www.youtube.com/watch?v=_IhwBpG8Cjw&ab_channel=sofie)
+- [Kansas - Dust in the Wind (Official Video)](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
+- [Zach Bryan - Something In The Orange (Lyrics)](https://www.youtube.com/watch?v=sDOxeU02NUM)
 
 ## Epic
 
@@ -774,6 +780,8 @@
 - [Wednesday Playing Cello Theme | Paint It Black - The Rolling Stones (Episode 1 Soundtrack Netflix)](https://www.youtube.com/watch?v=YjYsjyu7TIY&ab_channel=KrutikovMusic)
 - [♫Main Theme/Track 1 Techno Remix! Top Gear (SNES) - Extended!](https://www.youtube.com/watch?v=rZrPuVbAVDw)
 - [「Scarborough Fair」- German ver. | Selphius](https://www.youtube.com/watch?v=3qvs65__OUM&ab_channel=Selphius)
+- [Livingston - Shadow (Lyrics) "don't think twice you'll be dead in a second"](https://www.youtube.com/watch?v=l-OK9AxwwjU)
+- [KIM YEJI - Legends Never Die (Hwang Hyeonjo Team) POSITION CAM](https://www.youtube.com/watch?v=RohFOWVtcy0)
 
 ## French
 
@@ -794,6 +802,7 @@
 
 - [Karel Gott & Charlotte Ella Gottová - Srdce nehasnou (oficiální video) (German/English subtitles)](https://youtu.be/BibNLUQG_-4)
 - [Luc Arbogast - Nausicaa (La Moldau)](https://www.youtube.com/watch?v=aQkp988B25k&ab_channel=LucArbogastMusicVEVO)
+* [Rammstein - Dicke Titten (Official Video)](https://www.youtube.com/watch?v=thJgU9jkdU4)
 
 ## Hip Hop
 
@@ -974,6 +983,7 @@
 ## Mistic
 
 - [Georgia's Got Talent - Genadi Tkachenko](https://www.youtube.com/watch?v=Y2SGfMcemaM&ab_channel=Nichieri)
+- [a hollow shadow](https://www.youtube.com/watch?v=9t9G-I53SHg)
 
 ## Mix
 
@@ -1063,6 +1073,7 @@
 
 - [Liquid Soul vs Zyce ft Solar Kid - We Come In Peace (Talpa Remix)](https://www.youtube.com/watch?v=jK7CSxABbAQ&ab_channel=TesseracTstudio)
 - [MGMT - Little Dark Age](https://www.youtube.com/watch?v=rtL5oMyBHPs&ab_channel=MGMTVEVO)
+- [Little Dark Age - MGMT【TRADUÇÃO】](https://www.youtube.com/watch?v=kkm7Fh-VREM&list=RDJxZcFArCeKs&index=11)
 - [Milky Chance - Stolen Dance (Official Video)](https://youtu.be/iX-QaNzd-0Y)
 
 ## Rock
@@ -1071,6 +1082,8 @@
 - [System Of A Down - Aerials (Official HD Video)](https://youtu.be/L-iepu3EtyE)
 - [System of a Down - Toxicity - Medieval Style - Bardcore](https://www.youtube.com/watch?v=X5d8bnvO2JQ)
 - [The Rolling Stones - Paint It, Black (Official Lyric Video)](https://youtu.be/O4irXQhgMqg)
+- [Red Hot Chili Peppers - Under The Bridge [Official Music Video]](https://www.youtube.com/watch?v=GLvohMXgcBo)
+- [Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)](https://youtu.be/CwED4C5FJuo?list=RDJxZcFArCeKs)
 
 ## Russian
 
@@ -1651,4 +1664,3 @@
 - [New Boy — Oscar® Nominated Short Film](https://www.youtube.com/watch?v=FdeioVndUhs&ab_channel=NITVShorts)
 - [The ART of LOVE - Short Film](https://www.youtube.com/watch?v=OkpE4xICkns&ab_channel=LewisFarinella)
 - [The Most Beautiful Thing (Short Film)](https://www.youtube.com/watch?v=IP8psM4LWXk&ab_channel=CameronCovell)
-
