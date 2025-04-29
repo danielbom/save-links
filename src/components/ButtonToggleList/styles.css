@@ -1,5 +1,5 @@
 /* base */
-.menu-btn {
+.button-toggle-list {
   background: none;
   border: none;
 
@@ -15,44 +15,44 @@
   transition: all 0.5s ease-in-out;
 }
 
-.menu-btn__burger,
-.menu-btn__burger::before,
-.menu-btn__burger::after {
+.button-toggle-list__burger,
+.button-toggle-list__burger::before,
+.button-toggle-list__burger::after {
   width: 45px;
   height: 5px;
   border-radius: 5px;
   transition: all 0.5s ease-in-out;
 }
 
-.menu-btn__burger::before,
-.menu-btn__burger::after {
+.button-toggle-list__burger::before,
+.button-toggle-list__burger::after {
   content: '';
   position: absolute;
 }
 
-.menu-btn__burger::before {
+.button-toggle-list__burger::before {
   transform: translateY(-16px);
 }
-.menu-btn__burger::after {
+.button-toggle-list__burger::after {
   transform: translateY(16px);
 }
 
 /* animation */
-.menu-btn--open .menu-btn__burger {
+.button-toggle-list--open .button-toggle-list__burger {
   transform: translateX(-50px);
   background: transparent;
   box-shadow: none;
 }
-.menu-btn--open .menu-btn__burger::before {
+.button-toggle-list--open .button-toggle-list__burger::before {
   transform: rotate(45deg) translate(35px, -35px);
 }
-.menu-btn--open .menu-btn__burger::after {
+.button-toggle-list--open .button-toggle-list__burger::after {
   transform: rotate(-45deg) translate(35px, 35px);
 }
 
-.menu-btn__burger,
-.menu-btn__burger::before,
-.menu-btn__burger::after {
+.button-toggle-list__burger,
+.button-toggle-list__burger::before,
+.button-toggle-list__burger::after {
   background: #546eff;
   box-shadow: 0 2px 5px #546eff;
 }
