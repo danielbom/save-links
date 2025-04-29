@@ -25,6 +25,7 @@ export default function ButtonToggleDarkMode() {
 
   return (
     <button
+      type="button"
       className="button-toggle-dark-mode"
       onClick={() => {
         setDarkModeEnabled((prev) => !prev)

@@ -23,7 +23,7 @@ interface ContentGroupsProps {
 function ContentGroup({ name, count, children, onClick }: ContentGroupsProps) {
   return (
     <div className="content__group">
-      <button className="content__group-title" onClick={onClick}>
+      <button type="button" className="content__group-title" onClick={onClick}>
         <div className="content__group-icon" />
         {name} ({count})
       </button>

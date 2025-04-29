@@ -8,7 +8,11 @@ interface ButtonToggleListProps {
 
 export default function ButtonToggleList({ isOpen, onClick }: ButtonToggleListProps) {
   return (
-    <button className={clsn(['button-toggle-list', isOpen && 'button-toggle-list--open'])} onClick={onClick}>
+    <button
+      type="button"
+      className={clsn(['button-toggle-list', isOpen && 'button-toggle-list--open'])}
+      onClick={onClick}
+    >
       <div className="button-toggle-list__burger"></div>
     </button>
   )
