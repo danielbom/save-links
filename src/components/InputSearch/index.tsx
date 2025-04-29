@@ -1,25 +1,6 @@
-import { forwardRef, useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import MiniSearch from 'minisearch'
-import clsn from '../../lib/clsn'
-import './styles.css'
-
-interface InputSearchRefProps {
-  hasError?: boolean
-}
-
-const InputSearchRef = forwardRef<HTMLInputElement, InputSearchRefProps>(({ hasError }, ref) => {
-  return (
-    <div className="input-saerch-container">
-      <input
-        ref={ref}
-        type="text"
-        className={clsn(['input-search', hasError && 'input-search--error'])}
-        spellCheck="false"
-        placeholder="Buscar"
-      />
-    </div>
-  )
-})
+import InputSearchBase from '../InputSearchBase'
 
 interface InputSearchProps<T> {
   values: T[]
@@ -99,7 +80,7 @@ function InputSearch<T>({ values, fields, onSearch: onSearchOut }: InputSearchPr
     }
   }, [miniSearch, onSearch, values])
 
-  return <InputSearchRef ref={inputRef} hasError={searchNotFound} />
+  return <InputSearchBase ref={inputRef} hasError={searchNotFound} />
 }
 
 export default InputSearch
