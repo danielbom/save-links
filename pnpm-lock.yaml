@@ -51,9 +51,6 @@ importers:
       prettier:
         specifier: ^3.5.3
         version: 3.5.3
-      simple-pre-commit:
-        specifier: ^1.2.1
-        version: 1.2.1
       typescript:
         specifier: ~5.7.2
         version: 5.7.3
@@ -992,10 +989,6 @@ packages:
   shebang-regex@3.0.0:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
-
-  simple-pre-commit@1.2.1:
-    resolution: {integrity: sha512-9p8nYsBScz9wqYIKEjXJ5Ihrbl2yrbJsrp5a+gc5MIfOTLvjz3I+VhvDIL3qweNJA6RrvkHcGWELeJ3dAisLEQ==}
-    hasBin: true
 
   source-map-js@1.2.1:
     resolution: {integrity: sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==}
@@ -2019,8 +2012,6 @@ snapshots:
       shebang-regex: 3.0.0
 
   shebang-regex@3.0.0: {}
-
-  simple-pre-commit@1.2.1: {}
 
   source-map-js@1.2.1: {}
 
