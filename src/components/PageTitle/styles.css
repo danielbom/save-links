@@ -1,0 +1,21 @@
+/* base */
+.page-title {
+  font-family: 'Nunito';
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--blue);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.page-title:hover {
+  color: var(--lightblue);
+}
+
+/* dark */
+.dark .page-title {
+  color: var(--blue-dark);
+}
+.dark .page-title:hover {
+  color: var(--lightblue);
+}

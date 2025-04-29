@@ -1,0 +1,18 @@
+/* base */
+.description-links {
+  text-align: center;
+
+  border-radius: 12px;
+  font-size: 0.9rem;
+
+  padding: 8px 12px;
+
+  color: #90a4ae;
+  background-color: #eceff1;
+}
+
+/* dark */
+.dark .description-links {
+  color: var(--text-color-dark);
+  background-color: var(--sidebar-describe);
+}

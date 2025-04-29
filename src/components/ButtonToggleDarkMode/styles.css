@@ -1,0 +1,25 @@
+/* base */
+.button-toggle-dark-mode {
+  font-size: 16px;
+  font-weight: 400;
+  cursor: pointer;
+
+  outline: none;
+  border: none;
+  background: none;
+
+  text-align: left;
+}
+
+.button-toggle-dark-mode:hover {
+  color: var(--yellow);
+}
+
+/* dark */
+.dark .button-toggle-dark-mode {
+  color: var(--text-color-dark);
+}
+.dark .button-toggle-dark-mode:hover {
+  color: var(--yellow-dark);
+}
+

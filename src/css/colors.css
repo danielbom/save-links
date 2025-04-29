@@ -1,0 +1,33 @@
+/* light */
+:root {
+  --blue: #536dfe;
+  --lightblue: #03a9f4;
+  --yellow: #fbc02d;
+
+  --bg: #efefef;
+  --bg-2: #eef3f7;
+
+  --border-color: #e0e6ed;
+  --sidebar-gap: max(10%, 190px);
+
+  --text-color: #465a6e;
+}
+
+/* dark */
+:root {
+  --blue-dark: rgb(84, 156, 254);
+  --yellow-dark: rgb(251, 196, 58);
+
+  --bg-dark: #181a1b;
+  --bg-2-dark: #212529;
+
+  --text-color-dark: rgb(175, 168, 158);
+  --sidebar-describe: rgb(33, 36, 37);
+
+  /* sidebar */
+  --subtitle-dark: #8895a7;
+
+  /* content */
+  --link-dark: rgb(232, 230, 227);
+  --border-color-dark: #2b394a;
+}

@@ -1,32 +1,63 @@
 # Save Links
 
-My personal links aggregator ([access]()).
+Just a personal link aggregator I built for fun.
+You can [check it out here]().
+
+## Get started
+
+```bash
+pnpm install
+
+pnpm lint
+
+pnpm dev # Development serve
+
+pnpm build
+pnpm serve:dist # Production serve
+```
 
 ## Story
 
-Tired of building TODO apps and enchanted by low code and no code platforms I found a tutorial about [Bubble.io](https://bubble.io/) where was developed this link aggregator that I fall in love.
-The light version of this application is very similar to what I saw in the tutorial, only without the user frendly way to add new links that I started putting everything in JSON objects.
+So...I was getting kind of bored building TODO apps over and over.
+I wanted to try something different—something that felt useful but not overdone.
+Around that time, I stumbled across a tutorial on [Bubble.io](https://bubble.io/] that showed how to make a simple link aggregator.
+It was basic, but something about it clicked with me.
+I thought, “Hey, I could use something like that.”
 
-I didn't want to pay anything at that time, so I came with my own solution.
-It didn't seem an impossible task, but a good replacer to TODO projects.
-The first version (v0) is a pure html, css, js app, where I recreate the wheels, putting everthing in the same file.
-It works exactly like what I expected.
+Inspired by the tutorial, I built my own stripped-down version.
+It didn’t have a fancy interactive interface for adding links—just good old JSON objects.
+Simple, but it worked.
 
-It was already perfect and I could use it until today, but I was learning and curious about how to 'improve' my application.
-Watching more tutorials and accompaining programming channels on youtube I found a simple improviment: 
-writting this app with an archteture separating responsabilities and functionalities.
-As I didn't use Github that time I duplicate my code for comparision purposes and create the second version (v1).
+I didn’t want to pay for anything either, so I thought, “Why not just build this myself from scratch?”
+And that’s what I did.
+The first version (v0) was just HTML, CSS and JS.
+It was rough but honest, and surprisingly, it did exactly what I needed.
 
-Before that I started to look for libraries and frameworks that I could use and I tried ELM (v2), Vue.js (v3) and mithril (v4).
-The ELM version was a challenge because I just have learned a little of haskell at the university and practicing in CodeWars so I think I know what I was doing.
-It take a while to be done. I read a lot of guides and content to acchieve that solution, but I liked the experience.
+But you know how it goes—I couldn’t leave it alone.
+I kept watching tutorials, following dev channels on YouTube, and got curious about how to actually improve things.
+So I made a second version (v1), this time trying to organize the code better—splitting responsibilities, making things cleaner.
+I didn’t use GitHub back then, so I literally just duplicated the original file to compare changes.
 
-I started working with Angular and I hated it. I have tried React.js in some free online boot camps and I loved.
-But both is compiled and I was wondering if I could find a solution that only uses a static javascript.
-I have seen Alpine.JS and Mytril before, that is tiny rendering libraries, but I was not so much in fund to tried that moment.
-Until a day I saw a tutorial where was used Vue.JS by a CDN so I did.
-A very natural re-implementation. Everything works as a charm and almost at the first try.
+From there, things got experimental.
 
-Before that I get a time to try Mytril, and nowaday I re-implemented it in a buildable React.JS app.
-It is the framework/library that I have more experience.
-The JS part was easy, but I discover that my CSS was very entangled, so I need to do a little of rework and reorganize/separate each class.
+I decided to try using different frameworks and libraries:
+
+v2 – I gave ELM a shot. That one was... interesting. I had done a bit of Haskell in university and some CodeWars challenges, so it wasn’t completely alien. But it definitely stretched my brain. Took me a while, but I actually enjoyed the process.
+
+v3 – Then I stumbled across a Vue.js tutorial that used a CDN. No setup, just drop it in. Sounded easy enough, so I tried it—and everything worked so smoothly right from the start.
+
+v4 – I also briefly played with Mithril.js and Mobx.
+It’s super lightweight and fast, but I didn’t go too deep at that time.
+
+v5 – Eventually, I came back around to React. I’d tried it in some free bootcamps and liked it.
+So I rebuilt the app using React with a proper project structure and build process.
+React's the one I have more experience with.
+
+One thing I learned during the React rewrite was that my CSS had gotten really messy.
+So I took some time to untangle it, organize my classes, and make everything a bit more maintainable.
+
+### Summary
+
+What started as a random side project turned into a fun journey through different tools and frameworks.
+I learned a ton, experimented freely, and ended up with a simple but meaningful app that’s followed me through multiple stages of my coding journey.
+

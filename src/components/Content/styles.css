@@ -1,0 +1,119 @@
+.content__title {
+  padding: 0 12px;
+  height: 60px;
+
+  display: flex;
+  align-items: center;
+  color: var(--text-color-dark);
+  font-family: Helvetica, Arial, sans-serif;
+  border-bottom: 3px solid var(--border-color);
+
+  font-size: 1.2rem;
+}
+
+/* base group */
+.content__group {
+  border-bottom: 2px solid var(--border-color);
+}
+
+.content__group-title {
+  background: none;
+  border: none;
+  text-align: left;
+  padding: 0;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  padding: 8px 16px;
+  border-bottom: 1px solid var(--border-color);
+
+  width: 100%;
+  cursor: pointer;
+}
+
+.content__group-title:hover {
+  color: var(--yellow);
+}
+
+.content__group-icon {
+  height: 22px;
+  width: 24px;
+  background-image: url(../../assets/pasta.svg);
+  background-repeat: no-repeat;
+}
+
+/* base item */
+.link {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+
+  padding: 8px 16px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.link:hover .link__title {
+  color: var(--lightblue);
+}
+
+.link__icon {
+  width: 30px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link__title {
+  font-family: Arial;
+  font-size: 16px;
+  padding: 4px;
+  color: black;
+  text-decoration: none;
+
+  width: 100%;
+
+  white-space: nowrap;
+  
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.link__favorite::before {
+  content: '⭐ ';
+}
+
+/* dark */
+.dark .content__title {
+  border-bottom: 3px solid var(--border-color-dark);
+}
+
+.dark .content__group {
+  border-bottom: 2px solid var(--border-color-dark);
+}
+
+.dark .content__group-title {
+  color: var(--blue-dark);
+  border-bottom: 1px solid var(--border-color-dark);
+}
+.dark .content__group-title:hover {
+  color: var(--yellow-dark);
+}
+
+.dark .content__group-icon {
+  filter: invert(0.5);
+}
+
+.dark .link {
+  border-bottom-color: var(--border-color-dark);
+}
+
+.dark .link__title {
+  color: var(--text-color-dark);
+}
