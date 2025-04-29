@@ -4,21 +4,17 @@ import './styles.css'
 const DARK_MODE_KEY = 'save-links:darkMode'
 
 export default function ButtonToggleDarkMode() {
-  const [darkModeEnabled, setDarkModeEnabled] = useState(false)
-
-  useEffect(() => {
+  const [darkModeEnabled, setDarkModeEnabled] = useState(() => {
     const darkMode = localStorage.getItem(DARK_MODE_KEY)
-    if (darkMode) {
-      setDarkModeEnabled(true)
-    }
-  }, [])
+    return darkMode === 'true' || darkMode === null
+  })
 
   useEffect(() => {
     if (darkModeEnabled) {
       localStorage.setItem(DARK_MODE_KEY, 'true')
       document.body.classList.add('dark')
     } else {
-      localStorage.removeItem(DARK_MODE_KEY)
+      localStorage.setItem(DARK_MODE_KEY, 'false')
       document.body.classList.remove('dark')
     }
   }, [darkModeEnabled])
