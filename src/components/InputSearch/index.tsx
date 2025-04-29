@@ -38,12 +38,14 @@ function InputSearch<T>({ values, fields, onSearch: onSearchOut }: InputSearchPr
       searchOptions: {
         prefix: true,
         fuzzy: 0.2,
-      }
+      },
     })
     miniSearch.addAll(
       values.map((it, index) => ({
         id: index,
-        ...Object.fromEntries(fields.map((field) => [field, String((it as Record<string, string>)[field]).replace(/[^a-zA-Z0-9 ]/g, '')])),
+        ...Object.fromEntries(
+          fields.map((field) => [field, String((it as Record<string, string>)[field]).replace(/[^a-zA-Z0-9 ]/g, '')]),
+        ),
       })),
     )
     return miniSearch
@@ -67,7 +69,7 @@ function InputSearch<T>({ values, fields, onSearch: onSearchOut }: InputSearchPr
         if (document.activeElement === inputRef.current) {
           if (e.key === 'Escape') {
             e.preventDefault()
-            inputRef.current.value = ""
+            inputRef.current.value = ''
             search('')
             inputRef.current.blur()
           } else if (e.key === 'Enter') {

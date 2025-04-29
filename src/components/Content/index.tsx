@@ -80,7 +80,7 @@ function optimizeFavicon(url: string) {
       .replace(/^www.web./, 'www.') // remove 'web.' for web sites
       .replace(/^www.mobile./, 'www.') // remove 'mobile.' for mobile sites
       .replace(/^www.secure./, 'www.') // remove 'secure.' for secure sites
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
   } catch (e) {
     return ''
   }
