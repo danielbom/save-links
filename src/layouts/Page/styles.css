@@ -48,15 +48,15 @@ body {
 
 /* dark */
 .dark body {
-  background-color: var(--bg-2-dark);
+  background-color: var(--dark-bg-2);
 }
 .dark .page__content {
-  background-color: var(--bg-dark);
+  background-color: var(--dark-bg);
 }
 
 .dark .page__sidebar,
 .dark .page__header {
-  background-color: var(--bg-2-dark);
+  background-color: var(--dark-bg-2);
 }
 
 /* dark scrollbar */

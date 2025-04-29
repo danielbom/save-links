@@ -1,7 +1,7 @@
 /* base */
 .input-saerch-container {
   padding: 12px 8px;
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border);
 }
 
 .input-search {
@@ -33,14 +33,14 @@
 
 /* dark */
 .dark .input-saerch-container {
-  border-bottom: 1px solid var(--border-color-dark);
+  border-bottom: 1px solid var(--dark-border);
 }
 
 .dark .input-search {
-  background-color: var(--bg-dark);
-  color: var(--text-color-dark);
+  background-color: var(--dark-bg);
+  color: var(--dark-text);
 }
 
 .dark .input-search:focus {
-  background-color: var(--bg-2-dark);
+  background-color: var(--dark-bg-2);
 }

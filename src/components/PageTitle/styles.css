@@ -14,7 +14,7 @@
 
 /* dark */
 .dark .page-title {
-  color: var(--blue-dark);
+  color: var(--dark-blue);
 }
 .dark .page-title:hover {
   color: var(--lightblue);

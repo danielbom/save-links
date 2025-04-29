@@ -43,11 +43,11 @@
 
 /* dark */
 .dark .sidebar__subtitle {
-  color: var(--subtitle-dark);
+  color: var(--dark-subtitle);
 }
 
 .dark .sidebar__group {
-  color: var(--blue-dark);
+  color: var(--dark-blue);
 }
 
 @media only screen and (max-width: 600px) {

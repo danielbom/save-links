@@ -17,9 +17,9 @@
 
 /* dark */
 .dark .button-toggle-dark-mode {
-  color: var(--text-color-dark);
+  color: var(--dark-text);
 }
 .dark .button-toggle-dark-mode:hover {
-  color: var(--yellow-dark);
+  color: var(--dark-yellow);
 }
 
