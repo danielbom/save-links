@@ -1,4 +1,4 @@
-import{s as m}from"./index-CQMuaw2_.js";const b=`# Games\r
+import{s as m}from"./index-CPLaM1hv.js";const b=`# Games\r
 \r
 - [Stop](https://stopots.com/)\r
 - [Best Action RPG Games](https://www.ranker.com/list/all-action-role-playing-games-list/kyle-townsend)\r
