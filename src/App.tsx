@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 
 import { DataItem } from './data/parseMarkdown.ts'
 
@@ -82,6 +82,10 @@ function App() {
       })
   }, [])
 
+  const onSearch: typeof setSearchLinks = useCallback((values) => {
+    setSearchLinks(values)
+  }, [])
+
   return (
     <Page>
       <Page.Header>
@@ -145,8 +149,8 @@ function App() {
       </Page.Sidebar>
       <Page.Content hidden={sidebarIsOpen}>
         <Content>
-          <InputSearch values={links} fields={['title']} onSearch={setSearchLinks} />
-          <Content.List links={searchLinks} group="Pesquisa" />
+          <InputSearch values={links} fields={['title']} onSearch={onSearch} />
+          <Content.List links={searchLinks} group="@Pesquisa" />
           {searchLinks.length === 0 && (
             <>
               <Content.Title value={state.title} />

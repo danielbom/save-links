@@ -8,8 +8,7 @@ interface InputSearchProps<T> {
   onSearch: (filteredValues: T[]) => void
 }
 
-function InputSearch<T>({ values, fields, onSearch: onSearchOut }: InputSearchProps<T>) {
-  const [onSearch] = useState(() => onSearchOut)
+function InputSearch<T>({ values, fields, onSearch }: InputSearchProps<T>) {
   const typingRef = useRef<number | undefined>(undefined)
   const inputRef = useRef<HTMLInputElement>(null)
   const [searchNotFound, setSearchNotFound] = useState(false)
@@ -47,23 +46,22 @@ function InputSearch<T>({ values, fields, onSearch: onSearchOut }: InputSearchPr
     }
     const handleKeyDown = (e: KeyboardEvent) => {
       if (inputRef.current) {
-        if (document.activeElement === inputRef.current) {
+        const input = inputRef.current
+        if (document.activeElement === input) {
           if (e.key === 'Escape') {
             e.preventDefault()
-            inputRef.current.value = ''
+            input.value = ''
             search('')
-            inputRef.current.blur()
+            input.blur()
           } else if (e.key === 'Enter') {
             e.preventDefault()
-            search(inputRef.current.value.toLowerCase())
+            search(input.value.toLowerCase())
           } else {
             clearTimeout(typingRef.current)
             typingRef.current = setTimeout(() => {
               clearTimeout(typingRef.current)
               typingRef.current = undefined
-              if (inputRef.current) {
-                search(inputRef.current.value.toLowerCase())
-              }
+              search(input.value.toLowerCase())
             }, 500)
           }
         } else {

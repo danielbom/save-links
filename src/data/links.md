@@ -3,6 +3,8 @@
 - [Stop](https://stopots.com/)
 - [Best Action RPG Games](https://www.ranker.com/list/all-action-role-playing-games-list/kyle-townsend)
 - [NandGame - Build a computer from scratch.](http://www.nandgame.com/)
+- [Old Games](https://oldgameshelf.com/)
+- [Neail Fun](https://neal.fun/)
 
 ## Vole.wtf
 
@@ -64,6 +66,7 @@
 - [Listen in English](https://www.listeninenglish.com/index.php)
 - [Games to Learn English](https://www.gamestolearnenglish.com/)
 - [Os 140 Phrasal Verbs mais frequentes em inglês - A lista definitiva | Cursos de Inglês](https://www.aluralingua.com.br/artigos/os-140-phrasal-verbs-mais-frequentes-em-ingles-a-lista-definitiva)
+- [Connect the Stars](https://connectthestars.xyz/)
 
 ## Languages
 
@@ -107,6 +110,7 @@
 # Listening
 
 - [Ouvir Musica - Indila](https://www.ouvirmusica.com.br/indila/ainsi-bas-la-vida/)
+- [Ouvir Musica - Connie Francis](https://www.ouvirmusica.com.br/connie-francis/)
 - [Pretzel Rocks](https://www.pretzel.rocks/)
 - [Radio Garden](https://radio.garden/)
 
@@ -190,7 +194,10 @@
 - [Паранойя](https://www.youtube.com/watch?v=frOPjBp7MZk&ab_channel=HOMIE-Topic)
 - [Славяне Дети Богов](https://www.youtube.com/watch?v=Ni1DfocQwe4&ab_channel=ALEXANDERAS)
 - [【纯享版】王OK《月亮里的玫瑰与故事》 丨#舞台2023 The Next EP10丨#TheNext](https://youtu.be/1yAtdzDqhs8)
+- [【纯享版】李天责王OK八分钟舞台 丨#舞台2023 The Next EP8丨#TheNext](https://www.youtube.com/watch?v=7zgnaPTT3AI)
 - [ДДТ - Что такое осень (Official video)](https://www.youtube.com/watch?v=5KC-iscJtsI&ab_channel=NavigatorRecords)
+- [All the musical performances from THE SOUND OF MAGIC [PT SUB CC]](https://www.youtube.com/watch?v=_1ZBQmKEe24)
+- [BewhY (비와이) - 가라사대 (GOTTASADAE) [Official Music Video]](https://www.youtube.com/watch?v=ckZor7HRU1E)
 
 ## Brazilian
 
@@ -209,6 +216,8 @@
 - [Vanessa da Mata - Só Você E Eu (Clipe Oficial)](https://www.youtube.com/watch?v=3mhez9blZpk&t=9s&ab_channel=VanessadaMata)
 - [Velha Infância - Bia Marques](https://www.youtube.com/watch?v=NHBqjPMJ3uI&ab_channel=BiaMarques)
 - [Azul Da Cor Do Mar](https://www.youtube.com/watch?v=A9kTV-wpiWk&ab_channel=TimMaia-Topic)
+- [Catoni - Cataclisma](https://www.youtube.com/watch?v=HnZohe10epo)
+- [o velho e a flor – toquinho e vinícius de moraes](https://www.youtube.com/watch?v=qzg4ID1IMl0)
 
 ## Spanish
 
@@ -245,12 +254,15 @@
 - [French Medley (in case anyone needs it)](https://youtu.be/831FwSx3pB0)
 - [VIDEOCLUB – En nuit (Clip officiel)](https://youtu.be/xKJkzro8ArA)
 - [CLIO - T'as vu [CLIP OFFICIEL]](https://youtu.be/9enP5t05wFU)
+- [Décembre](https://www.youtube.com/watch?v=vSm9eGXtsJg)
 
 ## German
 
 - [Karel Gott & Charlotte Ella Gottová - Srdce nehasnou (oficiální video) (German/English subtitles)](https://youtu.be/BibNLUQG_-4)
 - [Luc Arbogast - Nausicaa (La Moldau)](https://www.youtube.com/watch?v=aQkp988B25k&ab_channel=LucArbogastMusicVEVO)
-* [Rammstein - Dicke Titten (Official Video)](https://www.youtube.com/watch?v=thJgU9jkdU4)
+- [Rammstein - Adieu (Official Video)](https://www.youtube.com/watch?v=skl6N3zGv-s&list=PLVTLbc6i-h_iuhdwUfuPDLFLXG2QQnz-x)
+- [Rammstein - Dicke Titten (Official Video)](https://www.youtube.com/watch?v=thJgU9jkdU4)
+- [Rammstein - Sonne (Legendado/Tradução)](https://www.youtube.com/watch?v=OprdETUpOhg)
 - [「Scarborough Fair」- German ver. | Selphius](https://www.youtube.com/watch?v=3qvs65__OUM&ab_channel=Selphius)
 
 ## Japonese
@@ -274,6 +286,9 @@
 - [ヨルシカ - ヒッチコック (MUSIC VIDEO)](https://www.youtube.com/watch?v=t7MBzMP4OzY&feature=emb_logo)
 - [白日 / King Gnu (covered by 紫咲シオン)【歌ってみた/4K】](https://www.youtube.com/watch?v=NO66dNMwmbU)
 - [Rizky Ayuba - Kimi No Toriko (Lyrics) | Ki minno tori ko ni natte, shimae ba kitto](https://www.youtube.com/watch?v=Hiz27AM5xgA)
+- [Kimetsu no Yaiba Season 4 - Ending FULL "Tokoshie" by HYDE × MY FIRST STORY (Lyrics)](https://www.youtube.com/watch?v=8EaWUQzjN_M)
+- [Night and Day (Contest Ver) (그날 밤 (Contest Ver))](https://www.youtube.com/watch?v=mfSlBPYzvlM&list=PLvfDPyX__3uvGErMdi3o6ACRLlvhw4UyT&index=2)
+- [Miki Matsubara (松原みき) - Stay with me - (Original Sound Video) - (HITACHI Sound Break) 1080p (1979)](https://www.youtube.com/watch?v=JTXdGB1U9kw)
 
 ## Korean
 
@@ -281,6 +296,10 @@
 - [Buzz - Thorn [MV HD]](https://www.youtube.com/watch?app=desktop&v=gcWxnn5cJEI&ab_channel=leylane)
 - [TAEYEON 태연 'Can't Control Myself' MV](https://youtu.be/RccDIpx4ZMM)
 - [그때 그 아인 (Someday, The Boy)](https://www.youtube.com/watch?v=xYvO_mYfOfk&list=RDGMEMCMFH2exzjBeE_zAHHJOdxg&index=5&ab_channel=KimFeel-Topic)
+
+## Tcheco
+
+- [Karel Gott & Charlotte Ella Gottová - Srdce nehasnou (oficiální video) (German/English subtitles)](https://www.youtube.com/watch?v=BibNLUQG_-4)
 
 ## Aurora
 
@@ -334,6 +353,9 @@
 - [Fable: The Lost Chapters - Oakvale (Gingertail Cover)](https://youtu.be/yaDsvB-8qno)
 - [Silent Hill 2 OST - Theme Of Laura](https://youtu.be/6LB7LZZGpkw)
 - [NieR - Grandma & Destruction](https://youtu.be/r2VgwXiBfbM?list=RDMMNVuNGgRY-Ac)
+- [Diablo - Tristram Theme (Gingertail Cover)](https://www.youtube.com/watch?v=LXYNSX-a05U)
+- [Assassin's Creed x Interstellar | Theme Mashup](https://www.youtube.com/watch?v=HJisylsiUXA)
+- [Lumière](https://www.youtube.com/watch?v=iqizXvvWnmM)
 
 ## Movies and Series
 
@@ -351,6 +373,11 @@
 - [a hollow shadow](https://www.youtube.com/watch?v=9t9G-I53SHg)
 - [Son Lux, Mitski & David Byrne - This Is A Life (Everything Everywhere All At Once) (Soundtrack)](https://youtu.be/zzCGjIDfEXQ)
 - [4 Strings of Sweet Home OST Guitar Fingerstyle (Tabs)](https://www.youtube.com/watch?v=LzZqEEzQ8Dk&ab_channel=Musiplays)
+- [The Greatest Showman | "Never Enough" Lyric Video | Fox Family Entertainment](https://www.youtube.com/watch?v=6jZVsr7q-tE)
+- [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
+- [an amélie comfort playlist](https://www.youtube.com/watch?v=xoSNx_5L398)
+- [André Rieu - Conquest of Paradise (Live at the Amsterdam Arena)](https://www.youtube.com/watch?v=DZ_NImYJke0)
+- [Half Moon - The Piano Duet (Corpse Bride Cover)](https://www.youtube.com/watch?v=mwdGmw9PD2E)
 
 ## Dreamy
 
@@ -361,6 +388,7 @@
 - [Zach Bryan - Something In The Orange (Lyrics)](https://www.youtube.com/watch?v=sDOxeU02NUM)
 - [Nu Deco Ensemble & Kishi Bashi - I Am the Antichrist to You](https://youtu.be/l_dGqLzOnhA)
 - [Agnes Obel - The Curse (Berlin Live Session)](https://youtu.be/j1wgaFJ0750)
+- [ERA - Ameno (2010 Remix) (Official Video)](https://www.youtube.com/watch?v=wpJ_gRc8BXg)
 
 ## Fantastic
 
@@ -383,6 +411,7 @@
 - [KIM YEJI - Legends Never Die (Hwang Hyeonjo Team) POSITION CAM](https://www.youtube.com/watch?v=RohFOWVtcy0)
 - [Georgia's Got Talent - Genadi Tkachenko](https://www.youtube.com/watch?v=Y2SGfMcemaM&ab_channel=Nichieri)
 - [THE WOLF SONG - Nordic music - Vargsången](https://youtu.be/KTmatjyd4KM)
+- [Hearts of Iron IV: Bella Ciao [Full Version]](https://www.youtube.com/watch?v=Q01TJuf1Dy8)
 
 ## Hip Hop
 
@@ -459,8 +488,15 @@
 - [APOCALYPTICA: Nothing Else Matters. (WEDNESDAY SEASON 1 SOUNDTRACK). 1 X 03](https://youtu.be/NxDPYAJgZgM)
 - [Classical Music for the Villains out there ✦ Epic Music ✦](https://youtu.be/-ZWwmVDQ20Q)
 - [♫Main Theme/Track 1 Techno Remix! Top Gear (SNES) - Extended!](https://www.youtube.com/watch?v=rZrPuVbAVDw)
+- [Quanto mais um homem busca ter a mente calma, mais próximo ele está da força | Ambiente estóico](https://www.youtube.com/watch?v=RKdJ-SDIhkc)
 
 ## Lovely
+
+- [Conan Gray - Heather (Official Lyric Video)](https://www.youtube.com/watch?v=GPUg7n8-M6o)
+- [Stephen Sanchez - Until I Found You (Official Video)](https://www.youtube.com/watch?v=GxldQ9eX2wo)
+- [Keane - Somewhere Only We Know (Official Music Video)](https://www.youtube.com/watch?v=Oextk-If8HQ)
+- [dhruv - double take (Official Video)](https://www.youtube.com/watch?v=R8FHtIhWqNo)
+- [New West - Those Eyes](https://www.youtube.com/watch?v=b_CpWmkhwq0)
 
 - [Maroon 5 - Girls Like You ft. Cardi B (Official Music Video)](https://www.youtube.com/watch?v=aJOTlE1K90k&list=PLxLVYknNzPOvYd8DeLiTTIGtm-bLdQN6U&index=9&ab_channel=Maroon5VEVO)
 - [A rainy day | original by Mimi and Josy](https://youtu.be/Mb6IWqIdZh4?list=WL)
@@ -506,6 +542,7 @@
 
 ## Only Voice
 
+- [ANÚNA: Suantraí (lullaby) from the album Eilífð](https://www.youtube.com/watch?v=U-xSvTXWfFo)
 - [IMAGINE | ONLY VOX](https://www.youtube.com/watch?v=T90KXfb80Z4)
 - [Minecraft OST (acapella)](https://www.youtube.com/watch?v=3iDK9bnzYD0&ab_channel=MayTree)
 
@@ -520,6 +557,11 @@
 - [作業用BGM！ リラックスBGM！ 癒しBGM！ ピアノ曲！ 作業用や勉強用にも！](https://www.youtube.com/watch?v=zSrHsujGnLA&ab_channel=MusicBGMChannel)
 - [Forestella Live in Immortal songs 2](https://www.youtube.com/watch?v=Mef9MDqo1Bo&list=PLjr6CRFBRvh7qc9KRfvxB33lUm2_VtGHc&index=2)
 - [THE FIRST TAKE](https://youtu.be/1vp2ZUgjwBA?list=PLeLvSt3A0Ddk9lGjNqmzT0ctVPA5xfinn)
+- [Uma Família Inusitada OST](https://www.youtube.com/watch?v=HcX8ph0AMJw&list=PLvfDPyX__3usHl_6ZW8xJnSQ1XAQh97Ie&index=1)
+- [Será que eu tô gostando dela?](https://www.youtube.com/watch?v=AqX7fJX6CSY&list=RDIGSDQjm9c9s&index=4)
+- [Musicas Portuguesas](https://www.youtube.com/watch?v=3-uPAP30NuU&list=RDQMftCrcU7KqKI&index=1)
+- [TOP MUSICA PORTUGUESA 2021](https://www.youtube.com/watch?v=_H88iNMfyjo&list=PLyEWgPHI4vjrwkPYlGIazwYo0OytITt1V)
+- [Clair Obscur: Expedition 33 (OST)](https://www.youtube.com/watch?v=yakOBIoyoik&list=PLC4e5UAZcgAecRPu894IWOqClBum-Kyjp&index=1)
 
 ## Playlist Long
 
@@ -569,6 +611,10 @@
 - [Little Dark Age - MGMT【TRADUÇÃO】](https://www.youtube.com/watch?v=kkm7Fh-VREM&list=RDJxZcFArCeKs&index=11)
 - [Milky Chance - Stolen Dance (Official Video)](https://youtu.be/iX-QaNzd-0Y)
 
+## Remix
+
+- [I Like To Move It (2016 Edit)](https://www.youtube.com/watch?v=lKfAoHnLstk)
+
 ## Rock and Roll
 
 - [Pink Floyd -"Echoes" Pompeii](https://www.youtube.com/watch?v=y-E7_VHLvkE&ab_channel=HDPinkFloyd)
@@ -578,6 +624,8 @@
 - [Red Hot Chili Peppers - Under The Bridge [Official Music Video]](https://www.youtube.com/watch?v=GLvohMXgcBo)
 - [Nightwish - Over The Hills And Far Away (OFFICIAL VIDEO)](https://youtu.be/CwED4C5FJuo?list=RDJxZcFArCeKs)
 - [Guile´s Theme - Vocal + Band + Metal !!!](https://youtu.be/dxf6TGoJRaQ)
+- [Serj Tankian - Empty Walls (Official Music Video) | Warner Vault](https://www.youtube.com/watch?v=dGWQqRyO8gA&t=1s)
+- [System Of A Down - Chop Suey! (Official HD Video)](https://www.youtube.com/watch?v=CSvFpBOe8eY)
 
 ## Sad
 
@@ -684,6 +732,8 @@
 ## Read
 
 - [Relacionamento](https://entretodasascoisas.com.br/category/relacionamento/)
+- [Webnovels](https://www.webnovel.com/book)
+- [Github - The_Way_to_Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai/)
 
 - [5 React Projects You Need In Your Portfolio](https://www.freecodecamp.org/news/5-react-projects-you-need-in-your-portfolio/)
 - [A perfeição que mora na imperfeição](https://amenteemaravilhosa.com.br/perfeicao-mora-imperfeicao/)
@@ -823,6 +873,8 @@
 - [Menti - Create voting](https://www.menti.com/)
 - [Neocities - Free Static Websites](https://neocities.org/)
 - [Reactive Resume - Curriculo](https://rxresu.me/)
+- [Licenses](https://choosealicense.com/licenses/)
+- [Cheatsheets](https://cheatsheets.zip)
 
 ## Compare text
 
@@ -837,6 +889,15 @@
 ## Testing
 
 - [Sound Test](https://sndtst.com/)
+
+## Math
+
+- [Mathca - Math expression editor](https://www.mathcha.io)
+- [Equation Editor for online mathematics](https://editor.codecogs.com/)
+
+## PDF
+
+- [XPDF Viewer](https://chromewebstore.google.com/detail/xpdf-viewer/cidgnmhjmdpelmhmgkmodalhfceemodi)
 
 # Youtube
 

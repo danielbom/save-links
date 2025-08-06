@@ -46,7 +46,7 @@ interface ListLinksProps {
 }
 
 function ContentList({ group, visible = true, className, links }: ListLinksProps) {
-  const makeKey = (link: ListItemProps) => (group ? group + '::' + link.url : link.url)
+  const makeKey = (link: ListItemProps) => (group ? `${group}::${link.url}` : link.url)
   return (
     <div className={className} style={{ display: visible ? 'block' : 'none' }}>
       {links.map((link) => (

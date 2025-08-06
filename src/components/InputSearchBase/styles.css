@@ -13,17 +13,19 @@
   box-sizing: border-box;
   padding: 0 4px;
   width: 100%;
+  border-radius: 4px;
 
   font-size: 1em;
-  background-color: #fff;
+  background-color:rgb(223, 230, 235);
+  transition: 250ms background-color;
 }
 
 .input-search::placeholder {
-  color: #bfbfbf;
+  color:rgb(151, 151, 151);
   text-rendering: auto;
 }
 .input-search:focus {
-  background-color: #f5f8fa;
+  background-color: #fAfAfA;
 }
 
 .input-search--error {

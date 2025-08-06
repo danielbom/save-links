@@ -4,7 +4,7 @@
 
   display: flex;
   align-items: center;
-  color: var(--dark-text);
+  color: black;
   font-family: Helvetica, Arial, sans-serif;
   border-bottom: 3px solid var(--border);
 
@@ -91,6 +91,7 @@
 
 /* dark */
 .dark .content__title {
+  color: var(--dark-text);
   border-bottom: 3px solid var(--dark-border);
 }
 
