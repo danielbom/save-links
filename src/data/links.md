@@ -182,6 +182,7 @@
 - [LOUNA - Полюса / ACOUSTIC / LIVE / 2019 / 0+](https://www.youtube.com/watch?v=iQrEWsLUL4s&ab_channel=LOUNA)
 - [OTYKEN - LEGEND (Official Music Video)](https://youtu.be/tXLoP9iSU5Y)
 - [POLNALYUBVI - Кометы (Official Music Video)](https://youtu.be/76BmuIf0duw?list=WL)
+- [POLNALYUBVI — Твои глаза (Official Music Video)](https://www.youtube.com/watch?v=qC4sCCmvoXU)
 - [RSAC - Не Мешай (Lyrics)](https://www.youtube.com/watch?v=4QqfhdzvD7c)
 - [RSAC - Не Мешай (Без NBA)](https://www.youtube.com/watch?v=hMG_rDvzMcI&feature=share&fbclid=IwAR2NEE5TQmilVrbqev_p5uMx73RkHQ9LFK8A_VRnZW3Tw7rNB5YbaaCgYCQ)
 - [RSAC x ELLA — NBA (Не мешай) (OFFICIAL VIDEO)](https://youtu.be/sl3AOxaVHuU)
@@ -258,15 +259,16 @@
 
 ## German
 
-- [Karel Gott & Charlotte Ella Gottová - Srdce nehasnou (oficiální video) (German/English subtitles)](https://youtu.be/BibNLUQG_-4)
 - [Luc Arbogast - Nausicaa (La Moldau)](https://www.youtube.com/watch?v=aQkp988B25k&ab_channel=LucArbogastMusicVEVO)
 - [Rammstein - Adieu (Official Video)](https://www.youtube.com/watch?v=skl6N3zGv-s&list=PLVTLbc6i-h_iuhdwUfuPDLFLXG2QQnz-x)
 - [Rammstein - Dicke Titten (Official Video)](https://www.youtube.com/watch?v=thJgU9jkdU4)
 - [Rammstein - Sonne (Legendado/Tradução)](https://www.youtube.com/watch?v=OprdETUpOhg)
 - [「Scarborough Fair」- German ver. | Selphius](https://www.youtube.com/watch?v=3qvs65__OUM&ab_channel=Selphius)
 
-## Japonese
+## Japanese
 
+- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
+- [カラス - うぴ子【MV】CROW - UPIKO](https://www.youtube.com/watch?v=0-40A3xSEx0)
 - [川崎鷹也-愛の歌【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=kIBXQHvgs1c&list=RDkIBXQHvgs1c&index=1&ab_channel=%E5%B7%9D%E5%B4%8E%E9%B7%B9%E4%B9%9F%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91)
 - [Takaya Kawasaki - Ai no Uta (Kimi ni Todoke Netflix)](https://youtu.be/wqUzQhEyTE4)
 - [KICK BACK](https://youtu.be/zoNJ6HOt3zw?list=RDC7KvlHNwIX0)
@@ -289,6 +291,7 @@
 - [Kimetsu no Yaiba Season 4 - Ending FULL "Tokoshie" by HYDE × MY FIRST STORY (Lyrics)](https://www.youtube.com/watch?v=8EaWUQzjN_M)
 - [Night and Day (Contest Ver) (그날 밤 (Contest Ver))](https://www.youtube.com/watch?v=mfSlBPYzvlM&list=PLvfDPyX__3uvGErMdi3o6ACRLlvhw4UyT&index=2)
 - [Miki Matsubara (松原みき) - Stay with me - (Original Sound Video) - (HITACHI Sound Break) 1080p (1979)](https://www.youtube.com/watch?v=JTXdGB1U9kw)
+- [Karasu - u pi-ko [MV] kurō - UPIKO](https://www.youtube.com/watch?v=0-40A3xSEx0)
 
 ## Korean
 
@@ -378,6 +381,7 @@
 - [an amélie comfort playlist](https://www.youtube.com/watch?v=xoSNx_5L398)
 - [André Rieu - Conquest of Paradise (Live at the Amsterdam Arena)](https://www.youtube.com/watch?v=DZ_NImYJke0)
 - [Half Moon - The Piano Duet (Corpse Bride Cover)](https://www.youtube.com/watch?v=mwdGmw9PD2E)
+- [REQUIEM FOR ATTACK ON TITAN // Grissini Project Orchestra](https://www.youtube.com/watch?v=i06vEDnLlQE)
 
 ## Dreamy
 
@@ -407,6 +411,7 @@
 - [Tokio Myers WINNER | ALL Performances | Britain's Got Talent 2017](https://www.youtube.com/watch?v=C8xIoxNr7mw&ab_channel=GotTalentGlobal)
 - [VNV Nation - When is the Future?](https://www.youtube.com/watch?v=SF5mf4LV7Jw)
 - [Wednesday Playing Cello Theme | Paint It Black - The Rolling Stones (Episode 1 Soundtrack Netflix)](https://www.youtube.com/watch?v=YjYsjyu7TIY&ab_channel=KrutikovMusic)
+- [Wednesday | Imperial Orchestra](https://www.youtube.com/watch?v=IlWf-bDvyb4)
 - [Livingston - Shadow (Lyrics) "don't think twice you'll be dead in a second"](https://www.youtube.com/watch?v=l-OK9AxwwjU)
 - [KIM YEJI - Legends Never Die (Hwang Hyeonjo Team) POSITION CAM](https://www.youtube.com/watch?v=RohFOWVtcy0)
 - [Georgia's Got Talent - Genadi Tkachenko](https://www.youtube.com/watch?v=Y2SGfMcemaM&ab_channel=Nichieri)
@@ -419,6 +424,9 @@
 
 ## Instrumental
 
+- [四月は君の嘘 / Your Lie in April OST (Piano)](https://www.youtube.com/watch?v=VaFRVg7iktU)
+- [Howl's Moving Castle - Merry go round of Life cover by Grissini Project](https://www.youtube.com/watch?v=J6qIzKxmW8Y)
+- [Merry-Go-Round of Life (from 'Howl's Moving Castle')](https://www.youtube.com/watch?v=xxsvTvDQKMY&t=121s)
 - [If There is an Afterlife](https://youtu.be/_zXDV6dPauM)
 - [Ana Vidovic plays Recuerdos de la Alhambra by Francisco Tárrega on a Jim Redgate classical guitar](https://www.youtube.com/watch?v=fwjX-m4LkYk&ab_channel=SiccasGuitars)
 - [Ave Maria, F. Schubert - Anastasiya Petryshak](https://www.youtube.com/watch?v=Jdy-tiwPD5o&ab_channel=AnastasiyaPetryshak)
@@ -431,6 +439,7 @@
 
 ## Lively
 
+- [HIGH HOPES - Gabriela Bee & Walk Off The Earth (Cover)](https://www.youtube.com/watch?v=LqYIKYEnX7Y)
 - [2CELLOS - Despacito [OFFICIAL VIDEO]](https://www.youtube.com/watch?v=D9LrEXF3USs&ab_channel=2CELLOS)
 - [ALI - LOST IN PARADISE feat. AKLO MV](https://www.youtube.com/watch?v=E-9LT2jizkA)
 - [Ali - Wild Side/Better Days | THE FIRST TAKE](https://www.youtube.com/watch?v=-8FXl5UIcmY&ab_channel=LuisEnrriqueCristobalurbano)
@@ -528,6 +537,7 @@
 
 ## Mix
 
+- [Dead Frog Face - Crows don’t Sing](https://www.youtube.com/watch?v=xStO5RyAZ6o)
 - [Britney Spears – Toxic | Spleen | The Voice France 2014 | Blind Audition](https://www.youtube.com/watch?v=B0phItaoKNM)
 - [Cancion sefaradi | Luc Arbogast | The Voice France 2013 | Blind Audition](https://www.youtube.com/watch?v=PHJwsS9nNA0)
 - [Cancion Sefaradi - Luc Arbogast | Nederlands Blazers Ensemble](https://www.youtube.com/watch?v=uOniYZ8pbno&ab_channel=NederlandsBlazersEnsemble)
@@ -548,6 +558,7 @@
 
 ## Playlist
 
+- [ORİGA -POLYUSHKA POLYE](https://www.youtube.com/watch?v=04_rDXjQuoQ&list=PLRR6FOj0kwvm-3aVvtIfWGXLzbOu5zAqI&index=1&pp=iAQB8AUB)
 - [【纯享版】王OK《月亮里的玫瑰与故事》 丨#舞台2023 The Next EP10丨#TheNext](https://www.youtube.com/watch?v=1yAtdzDqhs8&list=RD1yAtdzDqhs8&index=1)
 - [Enjoyker — All About The Rain (feat. Teresa Mannion)](https://www.youtube.com/watch?v=DLF2m10EswI&list=RDEMEBEo_0p5Peqxf4BztEkDUA&index=1&ab_channel=Enjoyker)
 - [L.E.J - La dalle (Clip Offiicel)](https://www.youtube.com/watch?v=RaK8HLqMPA8&list=RDtlcTZ5dKZtc&index=2&ab_channel=LEJVEVO)
@@ -565,6 +576,7 @@
 
 ## Playlist Long
 
+- ["Dies Irae" - Gregorian Chants, Dark Catholic Chantings](https://www.youtube.com/watch?v=uqe1BMw5fzw)
 - [AURORA - Live in Nidarosdomen [Full concert]](https://www.youtube.com/watch?v=XXVwFvkNTEg&ab_channel=MarcinWieczorkowski)
 - [Best of AURORA Acoustic Playlist 2020](https://www.youtube.com/watch?v=3ELfisKF6s4&ab_channel=DavidDaniel)
 - [🌧 Relaxing Animal Crossing Music Compilation (With Rain Sounds) 🌧](https://youtu.be/gGc3b1dBFMw)
